@@ -1,4 +1,6 @@
 
-This is a website with some exciting functionality
+This is a website which incldes DBMS Connection.
 
-watch in Linkedln
+Clone the website repository to your local machine.
+Copy the website files to the XAMPP htdocs folder.
+Start the Apache and MySQL services in XAMPP.
